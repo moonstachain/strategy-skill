@@ -1,0 +1,5 @@
+interface:
+  display_name: Strategy Skill
+  short_description: Convert a confirmed strategy into a reusable Codex skill.
+  default_prompt: Use $strategy-skill to Convert a confirmed strategy into a reusable
+    Codex skill.
