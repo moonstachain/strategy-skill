@@ -1,7 +1,7 @@
-# Strategy Skill
+# Strategy Skill Template
 
 ## What it is
-Strategy Skill is a lightweight Codex skill for turning a confirmed strategy into a reusable local skill scaffold.
+Strategy Skill Template is a lightweight Codex skill for turning a confirmed strategy into a reusable local skill scaffold.
 
 ## Who it's for
 This repo is for operators who already know the workflow they want to formalize and need a fast way to produce a deterministic local skill skeleton before deciding whether to publish it.
@@ -31,4 +31,3 @@ Use this skill when a workflow has already been validated in practice and you wa
 - `scripts/`: local skill generation entrypoint.
 - `references/`: supporting notes for the strategy-to-skill workflow.
 - `agents/`: Codex interface metadata.
-

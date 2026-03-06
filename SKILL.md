@@ -1,15 +1,15 @@
 ---
-name: strategy-skill
-description: Use when a user wants to formalize a repeated workflow as a local skill.
+name: strategy-skill-template
+description: Use when a user wants to formalize a repeated workflow as a reusable local skill template.
 ---
 
-# Strategy Skill
+# Strategy Skill Template
 
-Convert a confirmed strategy into a reusable Codex skill.
+Convert a confirmed strategy into a reusable Codex skill template.
 
 ## Trigger
 
-Use when a user wants to formalize a repeated workflow as a local skill.
+Use when a user wants to formalize a repeated workflow as a reusable local skill template.
 
 ## Entry Commands
 
